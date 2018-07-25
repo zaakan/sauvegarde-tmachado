@@ -1,0 +1,5 @@
+Credentials cache: API:1DF06CD2-1F83-4940-A96C-9807DDC630CE
+        Principal: tmachado@42.FR
+
+  Issued                Expires               Principal
+Jul  2 19:48:19 2018  Jul  9 19:47:54 2018  krbtgt/42.FR@42.FR
